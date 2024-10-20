@@ -32,8 +32,8 @@ body {
 }
 @media(max-width: 767px) {
   .happy-woman-day {
-    color: rgb(228, 52, 52);
-    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
     position: fixed;
     text-align: center;
     top: 80px;
@@ -44,8 +44,8 @@ body {
 }
 @media(min-width: 768px) {
   .happy-woman-day {
-    color: rgb(50, 16, 175);
-    font-size: 35px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
     position: fixed;
     text-align: center;
     top: 80px;
